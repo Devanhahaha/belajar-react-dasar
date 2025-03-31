@@ -1,0 +1,28 @@
+h1 {
+    font-size: 3.2em;
+    line-height: 1.1;
+    text-align: center;
+    color: red;
+    background-color: aqua;
+  }
+  
+ p {
+    font-size: 1.5em;
+    text-align: center;
+    color: blue;
+    background-color: yellow;
+  }
+
+  .header {
+    color: royalblue;
+    font-size: 3.2em;
+    text-align: center;
+    background-color: blueviolet;
+  }
+
+  .ppp {
+    font-size: 1.5em;
+    text-align: center;
+    color: blue;
+    background-color: tomato;
+  }
