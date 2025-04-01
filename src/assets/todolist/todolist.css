@@ -1,0 +1,12 @@
+i {
+    font-style: italic;
+    color: white;
+    background-color: brown;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+    background-color: burlywood;
+    color: white;
+  }

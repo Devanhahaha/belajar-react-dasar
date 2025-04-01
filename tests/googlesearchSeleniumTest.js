@@ -26,20 +26,20 @@ describe('Google Search Test', function () {
             .build();
     });
 
-    it('Search w3school in Google', async function () {
+    it('Search Selenium WebDriver in Google', async function () {
         allureReporter.addFeature('Google Search');
 
         await driver.get('https://www.google.com');
 
         let searchBox = await driver.wait(until.elementLocated(By.name('q')), 5000);
-        await searchBox.sendKeys('w3school');
+        await searchBox.sendKeys('Selenium WebDriver');
         await searchBox.submit();
 
         // Menunggu elemen hasil pencarian pertama muncul untuk memastikan halaman sudah dimuat dengan baik
         await driver.wait(until.elementLocated(By.css('h3')), 5000);
 
         let title = await driver.getTitle();
-        assert.include(title, 'w3school', 'Title should contain search term');
+        assert.include(title, 'Selenium WebDriver', 'Title should contain search term');
     });
 
     after(async function () {
