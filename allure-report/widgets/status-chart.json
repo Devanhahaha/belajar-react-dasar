@@ -1,1 +1,1 @@
-[{"uid":"fd1ff1f573093b9f","name":"Search Selenium in Google","time":{"start":1743479288165,"stop":1743479295456,"duration":7291},"status":"broken","severity":"normal"}]
+[{"uid":"de59f72f66250ad5","name":"Search Selenium WebDriver in Google","time":{"start":1743509191534,"stop":1743509195874,"duration":4340},"status":"passed","severity":"normal"},{"uid":"e40975463b295d6d","name":"Search w3school in Google","time":{"start":1743509197237,"stop":1743509201033,"duration":3796},"status":"passed","severity":"normal"}]
