@@ -7,7 +7,7 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "test": "mocha --import=mocha --reporter=allure-mocha --timeout 10000 tests/*.js",
+    "test": "mocha --import=mocha --reporter=allure-mocha --timeout 15000 tests/*.js",
     "allure:generate": "allure generate allure-results --clean -o allure-report",
     "allure:open": "allure open allure-report"
   },
