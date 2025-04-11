@@ -1,4 +1,5 @@
 "DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","3465","Search YouTube in Google","Google Search Test","Fri Apr 04 16:29:10 WIB 2025","passed","Fri Apr 04 16:29:14 WIB 2025","","","",""
-"","3573","Search Selenium WebDriver in Google","Google Search Test","Fri Apr 04 16:29:05 WIB 2025","passed","Fri Apr 04 16:29:09 WIB 2025","","","",""
-"","3377","Search w3school in Google","Google Search Test","Fri Apr 04 16:29:15 WIB 2025","passed","Fri Apr 04 16:29:18 WIB 2025","","","",""
+"","4849","Search w3school in Google","Google Search Test","Fri Apr 11 18:49:47 WIB 2025","passed","Fri Apr 11 18:49:52 WIB 2025","","","",""
+"","5020","Search ruangguru WebDriver in Google","Google Search Test","Fri Apr 11 18:49:32 WIB 2025","passed","Fri Apr 11 18:49:37 WIB 2025","","","",""
+"","3432","Search Selenium WebDriver in Google","Google Search Test","Fri Apr 11 18:49:38 WIB 2025","passed","Fri Apr 11 18:49:42 WIB 2025","","","",""
+"","3330","Search YouTube in Google","Google Search Test","Fri Apr 11 18:49:43 WIB 2025","passed","Fri Apr 11 18:49:46 WIB 2025","","","",""

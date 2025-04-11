@@ -9,7 +9,8 @@ export default defineConfig({
       input:  {
         main: 'index.html',
         features: 'HelloWord.html',
-        todolist: 'TodoList.html'
+        todolist: 'TodoList.html',
+        contact: 'Contact.html',
       }
     }
   }
